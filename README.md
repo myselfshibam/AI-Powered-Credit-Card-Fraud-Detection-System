@@ -17,7 +17,6 @@ An end-to-end Machine Learning project that detects fraudulent credit card trans
 * Streamlit
 * Pandas & NumPy
 * Scikit-learn
-* Plotly
 
 ## 📊 ML Workflow
 
